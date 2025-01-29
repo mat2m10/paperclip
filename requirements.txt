@@ -1,0 +1,8 @@
+pygetwindow
+pytesseract
+pillow
+pywinauto
+selenium
+webdriver-manager
+
+#pip install -r requirements.txt
